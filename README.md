@@ -12,7 +12,7 @@ This project was developed as part of the **"Credit Risk Modeling"** university 
 
 Data: https://www.kaggle.com/datasets/henryokam/prosper-loan-data?resource=download
 
-Report: https://drive.google.com/file/d/1KOXMnvp9_GyhhpnrUkVNrZK8ofxlpyf1/view?usp=sharing
+Report: https://github.com/hoanganhlinh/MRK-projekt/blob/main/MRK-projekt-prezentacja.pdf
 
 ### Project Overview
 
