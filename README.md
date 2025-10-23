@@ -9,7 +9,9 @@ Authors:
 * Piotr Zambrzycki
 
 This project was developed as part of the **"Credit Risk Modeling"** university course. Its main goal was to model **loan defaults** based on real-world loan data and to evaluate the performance of various predictive models.
+
 Data: https://www.kaggle.com/datasets/henryokam/prosper-loan-data?resource=download
+
 Report: https://drive.google.com/file/d/1KOXMnvp9_GyhhpnrUkVNrZK8ofxlpyf1/view?usp=sharing
 
 ### Project Overview
